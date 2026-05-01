@@ -1,0 +1,7 @@
+title: Mapa Health Guide
+description: Gesundheitsratgeber - Medizintourismus Tuerkei
+baseurl: ""
+url: "https://mapahealthguide.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
